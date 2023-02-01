@@ -95,7 +95,7 @@ int main(){
                 }
             for(i=0;i<x-1;i++){
                 if(pron[x-1]==pron[i]){
-                        printf("prontuario iguai a de um aluno ja inscrito\nNAO PODE!!\n\n");
+                        printf("prontuario igual a de um aluno ja inscrito\nNAO PODE!!\n\n");
                     }
             }
             fclose(pont_arq);
